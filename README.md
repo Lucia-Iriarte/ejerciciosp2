@@ -1,2 +1,0 @@
-# ejerciciosp2
-hola

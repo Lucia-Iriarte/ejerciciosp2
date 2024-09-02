@@ -1,0 +1,15 @@
+C:\p2repos\ejercicios_2\ejerciciosp2\repartidoP2\repartidoP2\obj\Debug\net8.0\repartidoP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\p2repos\ejercicios_2\ejerciciosp2\repartidoP2\repartidoP2\obj\Debug\net8.0\repartidoP2.AssemblyInfoInputs.cache
+C:\p2repos\ejercicios_2\ejerciciosp2\repartidoP2\repartidoP2\obj\Debug\net8.0\repartidoP2.AssemblyInfo.cs
+C:\p2repos\ejercicios_2\ejerciciosp2\repartidoP2\repartidoP2\obj\Debug\net8.0\repartidoP2.csproj.CoreCompileInputs.cache
+C:\p2repos\ejercicios_2\ejerciciosp2\repartidoP2\repartidoP2\obj\Debug\net8.0\repartidoP2.sourcelink.json
+C:\p2repos\ejercicios_2\ejerciciosp2\repartidoP2\repartidoP2\bin\Debug\net8.0\repartidoP2.exe
+C:\p2repos\ejercicios_2\ejerciciosp2\repartidoP2\repartidoP2\bin\Debug\net8.0\repartidoP2.deps.json
+C:\p2repos\ejercicios_2\ejerciciosp2\repartidoP2\repartidoP2\bin\Debug\net8.0\repartidoP2.runtimeconfig.json
+C:\p2repos\ejercicios_2\ejerciciosp2\repartidoP2\repartidoP2\bin\Debug\net8.0\repartidoP2.dll
+C:\p2repos\ejercicios_2\ejerciciosp2\repartidoP2\repartidoP2\bin\Debug\net8.0\repartidoP2.pdb
+C:\p2repos\ejercicios_2\ejerciciosp2\repartidoP2\repartidoP2\obj\Debug\net8.0\repartidoP2.dll
+C:\p2repos\ejercicios_2\ejerciciosp2\repartidoP2\repartidoP2\obj\Debug\net8.0\refint\repartidoP2.dll
+C:\p2repos\ejercicios_2\ejerciciosp2\repartidoP2\repartidoP2\obj\Debug\net8.0\repartidoP2.pdb
+C:\p2repos\ejercicios_2\ejerciciosp2\repartidoP2\repartidoP2\obj\Debug\net8.0\repartidoP2.genruntimeconfig.cache
+C:\p2repos\ejercicios_2\ejerciciosp2\repartidoP2\repartidoP2\obj\Debug\net8.0\ref\repartidoP2.dll
