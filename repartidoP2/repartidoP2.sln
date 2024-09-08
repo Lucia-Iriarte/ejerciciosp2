@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "repartidoP2", "repartidoP2\repartidoP2.csproj", "{861D7B98-F6D2-4228-A3E0-F74DE0AB49DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "repartidoP2.Tests", "repartidoP2.Tests\repartidoP2.Tests.csproj", "{FAFD41D8-1ABE-493E-9D12-70C522C51133}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{861D7B98-F6D2-4228-A3E0-F74DE0AB49DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{861D7B98-F6D2-4228-A3E0-F74DE0AB49DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{861D7B98-F6D2-4228-A3E0-F74DE0AB49DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAFD41D8-1ABE-493E-9D12-70C522C51133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAFD41D8-1ABE-493E-9D12-70C522C51133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAFD41D8-1ABE-493E-9D12-70C522C51133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAFD41D8-1ABE-493E-9D12-70C522C51133}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

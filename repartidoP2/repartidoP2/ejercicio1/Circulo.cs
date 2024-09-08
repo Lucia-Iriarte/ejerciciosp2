@@ -12,13 +12,28 @@ public class Circulo
 
     public double GetPerimeter()
     {
-        double PI = Math.PI;
-        return 2 * PI * radio;
+        if (radio < 0)
+        {
+            Console.WriteLine("Valor invalido.");
+            return -1.0;
+        }
+        else
+        {
+            double PI = Math.PI;
+            return 2 * PI * radio; 
+        }
     }
 
-    public double GetArea(double radio)
-    {
-        double PI = Math.PI;
-        return (radio*radio) * PI;
+    public double GetArea()
+    {if (radio < 0)
+        {
+            Console.WriteLine("Valor invalido.");
+            return -1.0;
+        }
+        else
+        {
+            double PI = Math.PI;
+            return (radio*radio) * PI;
+        }
     }
 }

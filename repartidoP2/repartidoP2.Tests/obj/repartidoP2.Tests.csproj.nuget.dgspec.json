@@ -1,0 +1,137 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\p2repos\\ejercicios_2\\ejerciciosp2\\repartidoP2\\repartidoP2.Tests\\repartidoP2.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\p2repos\\ejercicios_2\\ejerciciosp2\\repartidoP2\\repartidoP2.Tests\\repartidoP2.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\p2repos\\ejercicios_2\\ejerciciosp2\\repartidoP2\\repartidoP2.Tests\\repartidoP2.Tests.csproj",
+        "projectName": "repartidoP2.Tests",
+        "projectPath": "C:\\p2repos\\ejercicios_2\\ejerciciosp2\\repartidoP2\\repartidoP2.Tests\\repartidoP2.Tests.csproj",
+        "packagesPath": "C:\\Users\\Estudiante UCU\\.nuget\\packages\\",
+        "outputPath": "C:\\p2repos\\ejercicios_2\\ejerciciosp2\\repartidoP2\\repartidoP2.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "C:\\Users\\Estudiante UCU\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\p2repos\\ejercicios_2\\ejerciciosp2\\repartidoP2\\repartidoP2\\repartidoP2.csproj": {
+                "projectPath": "C:\\p2repos\\ejercicios_2\\ejerciciosp2\\repartidoP2\\repartidoP2\\repartidoP2.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "JetBrains.Annotations": {
+              "target": "Package",
+              "version": "[2024.2.0, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.5.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.5.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.11.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\p2repos\\ejercicios_2\\ejerciciosp2\\repartidoP2\\repartidoP2\\repartidoP2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\p2repos\\ejercicios_2\\ejerciciosp2\\repartidoP2\\repartidoP2\\repartidoP2.csproj",
+        "projectName": "repartidoP2",
+        "projectPath": "C:\\p2repos\\ejercicios_2\\ejerciciosp2\\repartidoP2\\repartidoP2\\repartidoP2.csproj",
+        "packagesPath": "C:\\Users\\Estudiante UCU\\.nuget\\packages\\",
+        "outputPath": "C:\\p2repos\\ejercicios_2\\ejerciciosp2\\repartidoP2\\repartidoP2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Estudiante UCU\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

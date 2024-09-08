@@ -2,6 +2,7 @@
 
 using repartidoP2.ejercicio1;
 
-Circulo c1 = new Circulo(5);
+Circulo c1 = new Circulo(1);
 
-Console.WriteLine("Hello, World! "+c1.GetPerimeter());
+Console.WriteLine("Perimetro: " + c1.GetPerimeter());
+Console.WriteLine("Area: " + c1.GetArea());
