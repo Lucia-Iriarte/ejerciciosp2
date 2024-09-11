@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("repartidoP2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d75fa34c5a746349613a2119910dd33f6ee121c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9282d2e422fe1858eb59208c70689763344c208")]
 [assembly: System.Reflection.AssemblyProductAttribute("repartidoP2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("repartidoP2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
