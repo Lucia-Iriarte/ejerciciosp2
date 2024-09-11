@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Estudiante UCU\\.nuget\\packages\\": {}
+    "/Users/lucia/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\p2repos\\ejercicios_2\\ejerciciosp2\\repartidoP2\\repartidoP2\\repartidoP2.csproj",
+      "projectUniqueName": "/Users/lucia/Desktop/ejerciciosp2/ejerciciosp2/repartidoP2/repartidoP2/repartidoP2.csproj",
       "projectName": "repartidoP2",
-      "projectPath": "C:\\p2repos\\ejercicios_2\\ejerciciosp2\\repartidoP2\\repartidoP2\\repartidoP2.csproj",
-      "packagesPath": "C:\\Users\\Estudiante UCU\\.nuget\\packages\\",
-      "outputPath": "C:\\p2repos\\ejercicios_2\\ejerciciosp2\\repartidoP2\\repartidoP2\\obj\\",
+      "projectPath": "/Users/lucia/Desktop/ejerciciosp2/ejerciciosp2/repartidoP2/repartidoP2/repartidoP2.csproj",
+      "packagesPath": "/Users/lucia/.nuget/packages/",
+      "outputPath": "/Users/lucia/Desktop/ejerciciosp2/ejerciciosp2/repartidoP2/repartidoP2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Estudiante UCU\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/lucia/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
